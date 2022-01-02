@@ -1,0 +1,19 @@
+
+
+< --- To exit the program, type 'quit'. --- >
+< --- Messages will be cleared according to usage. --- >
+
+<PyBot> ParrotDev is online.
+<PyBot> ParrotDev is online.
+[ParrotDev] hi
+[ParrotDev] is anyone online
+<PyBot> ParrotDev is online.
+<PyBot> ParrotDev has logged out.
+<PyBot> lol is online.
+[lol] lol
+[lol] lol
+[lol] lol
+[lol] lol
+[lol] lol
+[lol] lol
+<PyBot> lol has logged out.
